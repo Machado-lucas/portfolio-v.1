@@ -32,7 +32,7 @@
     --background: #44475a;
     --hue: 190;
     --first-color: hsla(var(--hue) , 96% , 53%);
-    --second-color: hsla(var(--hue) , 66% , 35%);
+    --second-color: hsla(var(--hue) , 66% , 43%);
 }
 
 /* TIPOGRAFIA REPONSIVA */
@@ -460,7 +460,7 @@ svg {
     bottom: -100%;
     width: 100%;
     height: 100%;
-    background: linear-gradient(180deg, hsla(0, 0%, 0%, 0) 0%, hsla(191, 97%, 77% , 0.5) 120%);
+    background: linear-gradient(180deg, hsla(0, 0%, 0%, 0) 0%, hsla(190, 66%, 43% , 0.5) 120%);
     backdrop-filter: blur(4px);
     -webkit-backdrop-filter: blur(4px);
     border-radius: 1rem;
